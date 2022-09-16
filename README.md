@@ -1,2 +1,2 @@
-# Python_language
+# Komutlu basit bir hesap makinesi
  
